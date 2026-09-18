@@ -33,7 +33,7 @@ Este software foi projetado de forma didatica com foco no ensino de logica de pr
 O fluxo principal e as funcoes do codigo evidenciam explicitamente em seus comentarios as tres estruturas basicas da programacao estruturada:
 - **Sequencia:** Atribuicoes de estado e transicao linear de dados.
 - **Selecao:** Estruturas condicionais (`if`, `elif`, `else`) para validacoes, regras de negocio e controle de fluxo do expediente.
-- **Repeticao:** Lacos de iteracao (`for` aninhados) para varredura e manipulacao da matriz bidimensional.
+- **Repeticao:** Lacos de iteracao (`for` aninhados) para varredura e manipulacao da matriz bidimensional. 
 
 ### 3. Explicacao de Metodos Embutidos e Funcoes de Alto Nivel
 Sempre que uma funcao de alto nivel ou atalho nativo do Python (como `sum()` ou `enumerate()`) e empregado, ha um comentario explicativo detalhando **o que a funcao faz "por baixo dos panos"** e qual **algoritmo tradicional** ela substitui, permitindo ao estudante visualizar a equivalencia logica.
