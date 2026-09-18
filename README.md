@@ -73,4 +73,4 @@ A interface grafica foi desenhada de forma limpa e moderna, utilizando estilos n
 - **Cabecalho:** Informacoes sobre o uso do painel e o mapeamento fisico.
 - **Disposicao dos Computadores:** Grade interativa $3 \times 4$ onde cada celula se comporta como um botao estilizado indicando o numero da maquina e seu status (`LIVRE` ou `OCUPADO`).
 - **Painel de Monitoramento:** Rotulos estatisticos atualizados em tempo real contendo o status atual do expediente, o numero de computadores ocupados no momento e o acumulado de acessos.
-- **Botoes de Acao:** Botao para **Encerrar Expediente** (com geracao do relatorio dinamico) e botao para **Iniciar Novo Expediente** (reinicio/reset dos dados).
+- **Botoes de Acao:** Botao para **Encerrar Expediente** (com geracao do relatorio dinamico) e botao para **Iniciar Novo Expediente**  (reinicio/reset dos dados).
